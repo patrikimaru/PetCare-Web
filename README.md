@@ -1,6 +1,6 @@
 # PET CARE API
 
-An API for managing dog grooming appointments, including user registration, login, and appointment scheduling.
+A Website for managing dog grooming appointments, including user registration, login, and appointment scheduling.
 
 ## Table of Contents
 
